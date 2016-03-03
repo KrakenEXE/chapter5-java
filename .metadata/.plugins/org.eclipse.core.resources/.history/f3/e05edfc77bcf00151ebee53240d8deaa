@@ -1,0 +1,8 @@
+package projectTen;
+
+public class SavingsAccount {
+
+	private double balance;
+	private double startBalance;
+	private double interestRate;
+}

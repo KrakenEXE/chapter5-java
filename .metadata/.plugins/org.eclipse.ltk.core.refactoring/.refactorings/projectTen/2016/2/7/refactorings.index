@@ -1,0 +1,13 @@
+1455080610416	Delete element
+1455080658084	Rename type 'SavingsAccount'
+1455080675149	Rename type 'SavingsAccountClass'
+1455080746274	Rename field 'lastAmountOfInterestEarned'
+1455080764647	Rename field 'annualInterestRate'
+1455080774198	Rename field 'accountBalance'
+1455080828412	Rename local variable 'withdrawAmount'
+1455080905771	Rename method 'getLastAmountOfInterestEarned'
+1455080937292	Rename method 'getAnnualInterestRate'
+1455080946883	Rename method 'getAccountBalance'
+1455081014312	Rename local variable 'keyboard'
+1455081033037	Rename local variable 'startingBalance'
+1455081143620	Rename local variable 'savingAccountClass'

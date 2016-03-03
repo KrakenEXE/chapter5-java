@@ -1,0 +1,20 @@
+package projectTen;
+
+public class SavingsAccount {
+
+	private double balance;
+	private double startBalance;
+	private double interestRate;
+	
+	SavingsAccount (double startBalance){
+		balance = startBalance;
+	}
+	
+	public void deposit (double money){
+		balance = balance + money;
+	}
+	
+	public void withdraw (double money){
+		balance = balance - money;
+	}
+}

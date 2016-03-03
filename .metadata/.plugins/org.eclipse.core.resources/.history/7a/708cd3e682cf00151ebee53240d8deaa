@@ -1,0 +1,24 @@
+package projectTen;
+
+public class SavingsAccount {
+
+	private double balance;
+	private double startBalance;
+	private double interestRate;
+	
+	SavingsAccount (double startBalance){	//constructor
+		balance = startBalance;
+	}
+	
+	public void deposit (double money){
+		balance = balance + money;
+	}
+	
+	public void withdraw (double money){
+		balance = balance - money;
+	}
+	
+	public double RecurringInterest(double interest){
+		return (balance * (interest/100));
+	}
+}

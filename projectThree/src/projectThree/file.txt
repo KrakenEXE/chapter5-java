@@ -1,0 +1,4 @@
+----------------------------
+During 1 hour you traveled 20 miles
+During 2 hour you traveled 40 miles
+During 3 hour you traveled 60 miles
